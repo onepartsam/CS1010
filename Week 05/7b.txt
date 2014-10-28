@@ -1,0 +1,3 @@
+7b. What it does?
+This program detects that if the user's input is more than 0, it would print out the input numner.
+
